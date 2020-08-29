@@ -1,0 +1,38 @@
+title: "Юрий Дунаев (dun43v)"
+description: "Профиль и резюме Юрия Дунаева (dun43v)."
+image: "https://cdn-storage.github.io/images/avatars/dun43v.01.png"
+lang: "ru_RU"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "https://cdn-storage.github.io/images/avatars/dun43v.01.png"
+
+author:
+  name: "Yu Dunaev"
+  email: "dun43v@gmail.com"
+  github: "dun43v"
+  twitter: "dun43v"
+
+twitter:
+  username: "dun43v"
+  card: summary
+
+social:
+  name: "Yu Dunaev"
+  links:
+    - https://dunaev.dev
+    - https://twitter.com/dun43v
+    - https://linkedin.com/in/dun43v
+    - https://github.com/dun43v
+    - https://gitlab.com/dun43v
+
+webmaster_verifications:
+  google: "Mda9LzZFJEJf8-frX8vZiE1kw25IX2IhRl2O_1paAXY"
+  yandex: "cada2de900840334"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
