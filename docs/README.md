@@ -197,5 +197,5 @@ ID: 54BBDD8BEFFF9921
 
 #### Разработка
 
-- [GitLab](https://gitlab.com/dun43v)
 - [GitHub](https://github.com/dun43v)
+- [GitLab](https://gitlab.com/dun43v)
