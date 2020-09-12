@@ -3,19 +3,19 @@
 #### Данные
 
 - **Имя:** Юрий Дунаев
-- **Псевдоним:** dun43v / Kitsune Solar
+- **Псевдоним:** Tails IM
 
 #### Контакты
 
-- [Официальный сайт](https://dunaev.dev/)
+- [Официальный сайт](https://tails.im/)
 - [Форма для пожертвований](https://donation-form.github.io/)
-- [dun43v@gmail.com](mailto:dun43v@gmail.com)
+- [mail@tails.im](mailto:mail@tails.im)
 
 #### GPG Fingerprint
 
 ```
-ID: 54BBDD8BEFFF9921
-1CCC 9B1F 67E3 C5B8 8E5D  0A5C 54BB DD8B EFFF 9921
+ID: 8127948A2958AC5E
+41FA 811C 1E6B 9D6A AA24  4FC7 8127 948A 2958 AC5E
 ```
 
 ---
@@ -187,15 +187,15 @@ ID: 54BBDD8BEFFF9921
 
 #### Социальные сети
 
-- [Twitter](https://twitter.com/dun43v)
-- [Facebook](https://facebook.com/dun43v)
-- [Instagram](https://instagram.com/dun43v)
-- [LinkedIn](https://linkedin.com/in/dun43v)
-- [Telegram](https://t.me/dun43v)
-- [Twitch](https://twitch.tv/dun43v)
-- [Vk](https://vk.com/dun43v)
+- [Twitter](https://twitter.com/Tails_IM)
+- [Facebook](https://facebook.com/)
+- [Instagram](https://instagram.com/Tails_IM)
+- [LinkedIn](https://linkedin.com/in/Tails_IM)
+- [Telegram](https://t.me/Tails_IM)
+- [Twitch](https://twitch.tv/Tails_IM)
+- [Vk](https://vk.com/Tails_IM)
 
 #### Разработка
 
-- [GitHub](https://github.com/dun43v)
-- [GitLab](https://gitlab.com/dun43v)
+- [GitHub](https://github.com/Tails-IM)
+- [GitLab](https://gitlab.com/Tails-IM)

@@ -1,5 +1,5 @@
-title: "Юрий Дунаев (dun43v)"
-description: "Профиль и резюме Юрия Дунаева (dun43v)."
+title: "Tails IM"
+description: "Профиль и резюме Tails IM."
 image: "https://cdn-storage.github.io/images/avatars/dun43v.01.png"
 lang: "ru_RU"
 
@@ -10,27 +10,27 @@ defaults:
       image: "https://cdn-storage.github.io/images/avatars/dun43v.01.png"
 
 author:
-  name: "Yu Dunaev"
-  email: "dun43v@gmail.com"
-  github: "dun43v"
-  twitter: "dun43v"
+  name: "Tails IM"
+  email: "ru.tails.im@gmail.com"
+  github: "Tails-IM"
+  twitter: "Tails_IM"
 
 twitter:
-  username: "dun43v"
+  username: "Tails_IM"
   card: summary
 
 social:
-  name: "Yu Dunaev"
+  name: "Tails IM"
   links:
-    - https://dunaev.dev
-    - https://twitter.com/dun43v
-    - https://linkedin.com/in/dun43v
-    - https://github.com/dun43v
-    - https://gitlab.com/dun43v
+    - https://tails.im
+    - https://twitter.com/Tails_IM
+    - https://linkedin.com/in/Tails_IM
+    - https://github.com/Tails-IM
+    - https://gitlab.com/Tails-IM
 
 webmaster_verifications:
-  google: "Mda9LzZFJEJf8-frX8vZiE1kw25IX2IhRl2O_1paAXY"
-  yandex: "cada2de900840334"
+  google: ""
+  yandex: ""
 
 plugins:
   - jekyll-seo-tag
