@@ -1,5 +1,5 @@
-title: "Tails IM"
-description: "Профиль и резюме Tails IM."
+title: "Kitsune Solar"
+description: "Профиль и резюме Kitsune Solar."
 image: "https://cdn-storage.github.io/images/avatars/dun43v.01.png"
 lang: "ru_RU"
 
@@ -10,23 +10,23 @@ defaults:
       image: "https://cdn-storage.github.io/images/avatars/dun43v.01.png"
 
 author:
-  name: "Tails IM"
-  email: "ru.tails.im@gmail.com"
-  github: "Tails-IM"
-  twitter: "Tails_IM"
+  name: "Kitsune Solar"
+  email: "kitsune.solar@gmail.com"
+  github: "KitsuneSolar"
+  twitter: "KitsuneSolar"
 
 twitter:
-  username: "Tails_IM"
+  username: "KitsuneSolar"
   card: summary
 
 social:
-  name: "Tails IM"
+  name: "Kitsune Solar"
   links:
-    - https://tails.im
-    - https://twitter.com/Tails_IM
-    - https://linkedin.com/in/Tails_IM
-    - https://github.com/Tails-IM
-    - https://gitlab.com/Tails-IM
+    - https://kitsune.solar
+    - https://twitter.com/KitsuneSolar
+    - https://linkedin.com/in/KitsuneSolar
+    - https://github.com/KitsuneSolar
+    - https://gitlab.com/KitsuneSolar
 
 webmaster_verifications:
   google: ""

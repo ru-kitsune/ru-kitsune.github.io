@@ -3,19 +3,19 @@
 #### Данные
 
 - **Имя:** Юрий Дунаев
-- **Псевдоним:** Tails IM
+- **Псевдоним:** Kitsune Solar
 
 #### Контакты
 
-- [Официальный сайт](https://tails.im/)
-- [Форма для пожертвований](https://donation-form.github.io/)
-- [mail@tails.im](mailto:mail@tails.im)
+- [Официальный сайт](https://kitsune.solar)
+- [Форма для пожертвований](https://donation-form.github.io)
+- [mail@tails.im](mailto:mail@kitsune.solar)
 
 #### GPG Fingerprint
 
 ```
-ID: 8127948A2958AC5E
-41FA 811C 1E6B 9D6A AA24  4FC7 8127 948A 2958 AC5E
+ID: EBB42795FDCB4794
+9DC8 5830 55FE 1323 A089  5947 EBB4 2795 FDCB 4794
 ```
 
 ---
@@ -187,15 +187,15 @@ ID: 8127948A2958AC5E
 
 #### Социальные сети
 
-- [Twitter](https://twitter.com/Tails_IM)
-- [Facebook](https://facebook.com/)
-- [Instagram](https://instagram.com/Tails_IM)
-- [LinkedIn](https://linkedin.com/in/Tails_IM)
-- [Telegram](https://t.me/Tails_IM)
-- [Twitch](https://twitch.tv/Tails_IM)
-- [Vk](https://vk.com/Tails_IM)
+- [Twitter](https://twitter.com/KitsuneSolar)
+- [Facebook](https://facebook.com/KitsuneSolar)
+- [Instagram](https://instagram.com/KitsuneSolar)
+- [LinkedIn](https://linkedin.com/in/KitsuneSolar)
+- [Telegram](https://t.me/KitsuneSolar)
+- [Twitch](https://twitch.tv/KitsuneSolar)
+- [Vk](https://vk.com/KitsuneSolar)
 
 #### Разработка
 
-- [GitHub](https://github.com/Tails-IM)
-- [GitLab](https://gitlab.com/Tails-IM)
+- [GitHub](https://github.com/KitsuneSolar)
+- [GitLab](https://gitlab.com/KitsuneSolar)

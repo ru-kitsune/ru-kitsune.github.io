@@ -1,3 +1,3 @@
 # Information
 
-[Tails IM](https://github.com/Tails-IM) profile and resume.
+[Kitsune Solar](https://github.com/KitsuneSolar) profile and resume.
