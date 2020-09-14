@@ -9,13 +9,18 @@
 
 - [Официальный сайт](https://kitsune.solar)
 - [Форма для пожертвований](https://donation-form.github.io)
-- [mail@tails.im](mailto:mail@kitsune.solar)
+- [mail@kitsune.solar](mailto:mail@kitsune.solar)
 
 #### GPG Fingerprint
 
 ```
-ID: EBB42795FDCB4794
+EBB42795FDCB4794 <kitsune.solar@gmail.com>
 9DC8 5830 55FE 1323 A089  5947 EBB4 2795 FDCB 4794
+```
+
+```
+B279A9BED425A380 <mail@kitsune.solar>
+0F76 B6D8 BC58 AC32 4DA8  9D86 B279 A9BE D425 A380
 ```
 
 ---
